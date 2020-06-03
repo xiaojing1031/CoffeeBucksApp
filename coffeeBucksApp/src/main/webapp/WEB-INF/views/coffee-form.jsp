@@ -8,11 +8,11 @@
 
     <link type="text/css"
           rel="stylesheet"
-          href="${pageContext.request.contextPath}/static_resources/css/style.css">
+          href="${pageContext.request.contextPath}/static_resources/css/coffee_order_style.css">
 
     <link type="text/css"
           rel="stylesheet"
-          href="${pageContext.request.contextPath}/static_resources/css/style.css">
+          href="${pageContext.request.contextPath}/static_resources/css/coffee_order_style.css">
 
 </head>
 <body>

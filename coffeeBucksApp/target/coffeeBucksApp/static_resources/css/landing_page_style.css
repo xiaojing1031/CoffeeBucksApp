@@ -1,0 +1,27 @@
+html, body {
+
+    margin-left: 2%;margin-right: 2%;
+    padding: 1px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+table {
+
+    text-align: center;
+    margin: auto;
+
+    border-collapse: collapse;
+    border-bottom: cornflowerblue;
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
+
+th {
+
+    background: mediumpurple;
+    color: #FFFFFF;
+    padding: 10px;
+}
+
+tr {
+    border-top: 1px cornflowerblue;
+}

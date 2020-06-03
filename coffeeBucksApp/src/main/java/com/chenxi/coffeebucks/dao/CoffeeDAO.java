@@ -1,6 +1,6 @@
 package com.chenxi.coffeebucks.dao;
 
-import com.chenxi.coffeebucks.entity.Coffee;
+import com.chenxi.coffeebucks.entity.orderMangement.Coffee;
 
 import java.util.List;
 

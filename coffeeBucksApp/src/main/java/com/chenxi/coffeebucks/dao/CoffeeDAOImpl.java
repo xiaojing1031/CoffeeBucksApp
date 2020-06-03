@@ -1,15 +1,12 @@
 package com.chenxi.coffeebucks.dao;
 
-import com.chenxi.coffeebucks.entity.Coffee;
+import com.chenxi.coffeebucks.entity.orderMangement.Coffee;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.query.Query;
-import org.joda.money.CurrencyUnit;
-import org.joda.money.Money;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
-import javax.transaction.Transactional;
 import java.util.List;
 import java.util.logging.Logger;
 

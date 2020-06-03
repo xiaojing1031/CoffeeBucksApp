@@ -1,7 +1,6 @@
 package com.chenxi.coffeebucks.dao;
 
-import com.chenxi.coffeebucks.entity.Coffee;
-import com.chenxi.coffeebucks.entity.Order;
+import com.chenxi.coffeebucks.entity.orderMangement.Order;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.query.Query;

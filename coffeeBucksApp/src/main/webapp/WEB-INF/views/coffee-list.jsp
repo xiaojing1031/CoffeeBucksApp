@@ -11,7 +11,7 @@
     <!-- reference our style sheet -->
     <link type="text/css"
         rel="stylesheet"
-        href="${pageContext.request.contextPath}/static_resources/css/style.css">
+        href="${pageContext.request.contextPath}/static_resources/css/coffee_order_style.css">
 </head>
 
 <body>
@@ -100,7 +100,7 @@
     <form:form action="${pageContext.request.contextPath}/logout"
                method="post">
 
-        <input type="submit" value="Logout" />
+        <input type="submit" value="Logout" class="add-button"/>
 
     </form:form>
 
